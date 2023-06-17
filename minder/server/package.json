@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "chowdown": "^1.2.6",
+    "cookie-parser": "^1.4.6",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "jssoup": "0.0.15",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.0.0",
+    "nodemon": "^2.0.12",
+    "request": "^2.88.2",
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  },
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "nodemon server.js"
+  }
+}
