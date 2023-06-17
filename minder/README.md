@@ -1,4 +1,4 @@
-# project550
+# minder
 
 An application that lets users specify their movie preferences (e.g. genre, actors, directors, year released, rating) and gives movie recommendations that the user can swipe through until they find one they like. User preferences can be weighted by importance to filter through movies more easily as well. Users can also click into movies to view detailed information about the movies. 
 
